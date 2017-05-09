@@ -1,0 +1,16 @@
+PODS:
+  - Board (1.0.0)
+
+DEPENDENCIES:
+  - Board (from `../`)
+
+EXTERNAL SOURCES:
+  Board:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Board: 5f157da94f4ebc11395a1afbc1e2cf6aa5040738
+
+PODFILE CHECKSUM: 995a90bc3746aeea2394969b5105317f6b063d88
+
+COCOAPODS: 1.2.1
